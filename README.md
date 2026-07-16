@@ -4,7 +4,6 @@
 
 **Cybersecurity Analyst | SOC Operations | Threat Detection | SIEM Engineering**
 
-*Air University, Pakistan — BS Cybersecurity (Class of 2027)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Unaiza%20Fatima-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/unaiza-fatima-72451127b)
 [![GitHub followers](https://img.shields.io/github/followers/madmaxx090?style=flat-square&color=1f6feb&label=GitHub)](https://github.com/madmaxx090)
