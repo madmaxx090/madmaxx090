@@ -2,7 +2,7 @@
 
 # Hi, I'm Unaiza Fatima 👋
 
-**Cybersecurity Student | SOC Operations | Threat Detection | SIEM Engineering**
+**Cybersecurity Analyst | SOC Operations | Threat Detection | SIEM Engineering**
 
 *Air University, Pakistan — BS Cybersecurity (Class of 2027)*
 
